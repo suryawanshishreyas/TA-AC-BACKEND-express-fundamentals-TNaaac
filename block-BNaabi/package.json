@@ -1,14 +1,22 @@
 {
-  "name": "altcampus-assignment",
+  "name": "sample2",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "description": "assignment",
+  "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests"
   },
   "author": "AltCampus",
-  "license": "GNU GPL V3",
+  "license": "ISC",
   "dependencies": {
     "jest": "^26.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/suryawanshishreyas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/github.com/suryawanshishreyas/issues"
+  },
+  "homepage": "https://github.com/github.com/suryawanshishreyas#readme"
 }
