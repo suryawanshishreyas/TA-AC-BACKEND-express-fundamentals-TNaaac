@@ -2,6 +2,8 @@ writeCode
 
 Create a basic express server with single route (a GET request on '/' route)
 
+> > created a server.js file
+
 - create a `package.json` file
 - install express
 - add listener on port 3000
