@@ -1,0 +1,22 @@
+{
+  "name": "sample2",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "AltCampus",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/suryawanshishreyas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/github.com/suryawanshishreyas/issues"
+  },
+  "homepage": "https://github.com/github.com/suryawanshishreyas#readme"
+}
