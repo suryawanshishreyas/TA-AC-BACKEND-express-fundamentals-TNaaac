@@ -9,8 +9,7 @@
   "author": "AltCampus",
   "license": "GNU GPL V3",
   "dependencies": {
-    "express": "^4.19.2",
-    "jest": "^29.7.0"
+    "express": "^4.19.2"
   },
   "keywords": [],
   "description": ""
