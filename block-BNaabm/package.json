@@ -1,15 +1,12 @@
 {
-  "name": "sample",
+  "name": "block-bnaabm",
   "version": "1.0.0",
-  "description": "express middlewares",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+  "license": "ISC"
 }
