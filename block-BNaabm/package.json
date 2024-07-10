@@ -4,7 +4,7 @@
   "description": "express middlewares",
   "main": "sample",
   "scripts": {
-    "start": "node server.js"
+    "test": "node server.js"
   },
   "keywords": [],
   "author": "",
