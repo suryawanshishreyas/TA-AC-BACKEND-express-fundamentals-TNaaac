@@ -2,7 +2,7 @@
   "name": "sample",
   "version": "1.0.0",
   "description": "express middlewares",
-  "main": "sample",
+  "main": "index.js",
   "scripts": {
     "test": "node server.js"
   },
