@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "routing in express",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/suryawanshishreyas.git"
+  },
+  "author": "suryawamshishreyass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/suryawanshishreyas/issues"
+  },
+  "homepage": "https://github.com/github.com/suryawanshishreyas#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
